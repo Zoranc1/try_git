@@ -1,8 +1,8 @@
 Once upon a time.... Or somethinkg else
 In a strange land far away
 And this is a good code
-And next line for commit 5.
-And next line for commit 6.
+And next line 1
+And next line for commit 6
 And next line for commit 7.
 And next line for commit 8.
 And next line for commit 9.
