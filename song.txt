@@ -4,3 +4,4 @@ Well, the way they make shows is, they make one show. That show's called a pilot
 
 Line 1
 Line 2 in song.txt
+Line 3 in song.txt
