@@ -2,3 +2,4 @@ Once upon a time.... Or somethinkg else
 In a strange land far away
 And this is a good code
 And next line 1
+And next line for commit 6
